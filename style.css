@@ -1,0 +1,11 @@
+body{
+    color:white; 
+    background-color:black;
+    text-align: center;
+    font-family: 'Sulphur Point', sans-serif;
+    font-size: larger;
+}
+img{
+    border: 3px white solid;
+}
+
